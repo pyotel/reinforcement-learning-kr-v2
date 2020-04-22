@@ -37,7 +37,7 @@ class GraphicDisplay(tk.Tk):
                            height=HEIGHT * UNIT,
                            width=WIDTH * UNIT)
         # 버튼 초기화
-        iteration_button = Button(self, text="Evaluate",
+        iteration_button = Button(self, text="Evaluation",
                                   command=self.evaluate_policy)
         iteration_button.configure(width=10, activebackground="#33B5E5")
         canvas.create_window(WIDTH * UNIT * 0.13, HEIGHT * UNIT + 10,
