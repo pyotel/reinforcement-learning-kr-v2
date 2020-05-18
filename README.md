@@ -46,3 +46,7 @@ pip install -r requirements.txt
 
 - [Deep Q Network](./3-atari/1-breakout-dqn)
 - [Asynchronous Advantage Actor Critic(A3C)](./3-atari/1-breakout-a3c)
+
+## Reference
+ - Unity ML Agent : https://blogs.unity3d.com/kr/2017/09/19/introducing-unity-machine-learning-agents/
+ - 
