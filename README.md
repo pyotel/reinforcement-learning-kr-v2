@@ -49,4 +49,4 @@ pip install -r requirements.txt
 
 ## Reference
  - Unity ML Agent : https://blogs.unity3d.com/kr/2017/09/19/introducing-unity-machine-learning-agents/
- - 
+ - 강좌 PDF : https://github.com/pyotel/reinforcement-learning-kr-v2/blob/master/doc/%EC%9C%84%ED%82%A4%EB%B6%81%EC%8A%A4_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5.pdf
